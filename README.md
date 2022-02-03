@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MishaTheMighty
+- 👋 Hi, I’m @MishaTheMighty, also knwon as Lazarus. 
 - 👀 I’m interested in cyber security, ethical hacking, and malware analysis.
 - 🌱 I’m currently learning reverse engineering, obfuscation, and general infosec practices.
 - 💞️ I’m looking to collaborate on personal things! Sorry!
